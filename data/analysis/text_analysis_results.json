@@ -1,0 +1,892 @@
+{
+  "generated_at": "2025-11-28T15:16:20.372366",
+  "summary": {
+    "total_texts": 909,
+    "english_texts": 834,
+    "chinese_texts": 75
+  },
+  "keywords": {
+    "english": [
+      {
+        "word": "ai",
+        "count": 373
+      },
+      {
+        "word": "replace",
+        "count": 115
+      },
+      {
+        "word": "code",
+        "count": 109
+      },
+      {
+        "word": "up",
+        "count": 98
+      },
+      {
+        "word": "engineers",
+        "count": 83
+      },
+      {
+        "word": "out",
+        "count": 77
+      },
+      {
+        "word": "jobs",
+        "count": 73
+      },
+      {
+        "word": "companies",
+        "count": 69
+      },
+      {
+        "word": "one",
+        "count": 66
+      },
+      {
+        "word": "chatgpt",
+        "count": 65
+      },
+      {
+        "word": "good",
+        "count": 65
+      },
+      {
+        "word": "software",
+        "count": 61
+      },
+      {
+        "word": "llm",
+        "count": 55
+      },
+      {
+        "word": "company",
+        "count": 54
+      },
+      {
+        "word": "llms",
+        "count": 48
+      },
+      {
+        "word": "better",
+        "count": 43
+      },
+      {
+        "word": "problem",
+        "count": 43
+      },
+      {
+        "word": "coding",
+        "count": 42
+      },
+      {
+        "word": "level",
+        "count": 40
+      },
+      {
+        "word": "job",
+        "count": 39
+      },
+      {
+        "word": "money",
+        "count": 38
+      },
+      {
+        "word": "replacing",
+        "count": 36
+      },
+      {
+        "word": "programmers",
+        "count": 36
+      },
+      {
+        "word": "stuff",
+        "count": 34
+      },
+      {
+        "word": "enough",
+        "count": 34
+      },
+      {
+        "word": "devs",
+        "count": 34
+      },
+      {
+        "word": "doing",
+        "count": 31
+      },
+      {
+        "word": "pretty",
+        "count": 30
+      },
+      {
+        "word": "gpt",
+        "count": 30
+      },
+      {
+        "word": "copilot",
+        "count": 30
+      },
+      {
+        "word": "workers",
+        "count": 30
+      },
+      {
+        "word": "tasks",
+        "count": 29
+      },
+      {
+        "word": "part",
+        "count": 29
+      },
+      {
+        "word": "human",
+        "count": 29
+      },
+      {
+        "word": "agents",
+        "count": 28
+      },
+      {
+        "word": "test",
+        "count": 28
+      },
+      {
+        "word": "less",
+        "count": 28
+      },
+      {
+        "word": "help",
+        "count": 27
+      },
+      {
+        "word": "tech",
+        "count": 27
+      },
+      {
+        "word": "data",
+        "count": 27
+      },
+      {
+        "word": "world",
+        "count": 27
+      },
+      {
+        "word": "answer",
+        "count": 27
+      },
+      {
+        "word": "over",
+        "count": 27
+      },
+      {
+        "word": "models",
+        "count": 26
+      },
+      {
+        "word": "tests",
+        "count": 26
+      },
+      {
+        "word": "simple",
+        "count": 25
+      },
+      {
+        "word": "context",
+        "count": 25
+      },
+      {
+        "word": "instead",
+        "count": 25
+      },
+      {
+        "word": "non",
+        "count": 25
+      },
+      {
+        "word": "down",
+        "count": 24
+      },
+      {
+        "word": "developers",
+        "count": 24
+      },
+      {
+        "word": "tool",
+        "count": 24
+      },
+      {
+        "word": "say",
+        "count": 24
+      },
+      {
+        "word": "business",
+        "count": 23
+      },
+      {
+        "word": "least",
+        "count": 23
+      },
+      {
+        "word": "replaced",
+        "count": 23
+      },
+      {
+        "word": "case",
+        "count": 23
+      },
+      {
+        "word": "without",
+        "count": 22
+      },
+      {
+        "word": "ask",
+        "count": 22
+      },
+      {
+        "word": "off",
+        "count": 22
+      },
+      {
+        "word": "completely",
+        "count": 22
+      },
+      {
+        "word": "around",
+        "count": 22
+      },
+      {
+        "word": "technology",
+        "count": 22
+      },
+      {
+        "word": "future",
+        "count": 21
+      },
+      {
+        "word": "junior",
+        "count": 21
+      },
+      {
+        "word": "problems",
+        "count": 21
+      },
+      {
+        "word": "saying",
+        "count": 21
+      },
+      {
+        "word": "tools",
+        "count": 21
+      },
+      {
+        "word": "else",
+        "count": 20
+      },
+      {
+        "word": "hard",
+        "count": 20
+      },
+      {
+        "word": "current",
+        "count": 20
+      },
+      {
+        "word": "best",
+        "count": 20
+      },
+      {
+        "word": "technical",
+        "count": 19
+      },
+      {
+        "word": "wrong",
+        "count": 19
+      },
+      {
+        "word": "entry",
+        "count": 19
+      },
+      {
+        "word": "team",
+        "count": 18
+      },
+      {
+        "word": "easier",
+        "count": 18
+      },
+      {
+        "word": "ni",
+        "count": 18
+      },
+      {
+        "word": "dev",
+        "count": 18
+      },
+      {
+        "word": "end",
+        "count": 18
+      },
+      {
+        "word": "low",
+        "count": 18
+      },
+      {
+        "word": "market",
+        "count": 18
+      },
+      {
+        "word": "senior",
+        "count": 18
+      },
+      {
+        "word": "experience",
+        "count": 18
+      },
+      {
+        "word": "claude",
+        "count": 18
+      },
+      {
+        "word": "programming",
+        "count": 18
+      },
+      {
+        "word": "themselves",
+        "count": 18
+      },
+      {
+        "word": "swes",
+        "count": 18
+      },
+      {
+        "word": "look",
+        "count": 18
+      },
+      {
+        "word": "solving",
+        "count": 17
+      },
+      {
+        "word": "model",
+        "count": 17
+      },
+      {
+        "word": "mid",
+        "count": 17
+      },
+      {
+        "word": "far",
+        "count": 17
+      },
+      {
+        "word": "agree",
+        "count": 17
+      },
+      {
+        "word": "put",
+        "count": 17
+      },
+      {
+        "word": "hit",
+        "count": 17
+      },
+      {
+        "word": "swe",
+        "count": 17
+      },
+      {
+        "word": "done",
+        "count": 17
+      },
+      {
+        "word": "solve",
+        "count": 17
+      },
+      {
+        "word": "having",
+        "count": 17
+      }
+    ],
+    "chinese": [
+      {
+        "word": "ai",
+        "count": 42
+      },
+      {
+        "word": "程序员",
+        "count": 17
+      },
+      {
+        "word": "失业",
+        "count": 7
+      },
+      {
+        "word": "gpt",
+        "count": 6
+      },
+      {
+        "word": "大模型",
+        "count": 4
+      },
+      {
+        "word": "取代",
+        "count": 3
+      },
+      {
+        "word": "认为",
+        "count": 2
+      },
+      {
+        "word": "当前",
+        "count": 2
+      },
+      {
+        "word": "人工智能",
+        "count": 2
+      },
+      {
+        "word": "chatgpt",
+        "count": 2
+      },
+      {
+        "word": "初级开发职位缩减",
+        "count": 2
+      },
+      {
+        "word": "裁员",
+        "count": 2
+      },
+      {
+        "word": "是的",
+        "count": 2
+      },
+      {
+        "word": "程序员会是最先被",
+        "count": 1
+      },
+      {
+        "word": "取代的职业吗",
+        "count": 1
+      },
+      {
+        "word": "能提升程序员效率",
+        "count": 1
+      },
+      {
+        "word": "市场需求不变的情况下",
+        "count": 1
+      },
+      {
+        "word": "所需人员会大幅减少",
+        "count": 1
+      },
+      {
+        "word": "公式",
+        "count": 1
+      },
+      {
+        "word": "需要的人员数量",
+        "count": 1
+      },
+      {
+        "word": "市场开发需求总量",
+        "count": 1
+      },
+      {
+        "word": "人的基础效率",
+        "count": 1
+      },
+      {
+        "word": "效率提升倍数",
+        "count": 1
+      },
+      {
+        "word": "并非指",
+        "count": 1
+      },
+      {
+        "word": "自主编码",
+        "count": 1
+      },
+      {
+        "word": "而是当每个程序员的效率都翻倍时",
+        "count": 1
+      },
+      {
+        "word": "市场需求的人数会显著下降",
+        "count": 1
+      },
+      {
+        "word": "对程序员行业的冲击到底有多大",
+        "count": 1
+      },
+      {
+        "word": "用了",
+        "count": 1
+      },
+      {
+        "word": "感觉自己干",
+        "count": 1
+      },
+      {
+        "word": "个人的活没啥问题",
+        "count": 1
+      },
+      {
+        "word": "有了",
+        "count": 1
+      },
+      {
+        "word": "之后程序员应该更关注底层还是应用层面的内容",
+        "count": 1
+      },
+      {
+        "word": "编程会让程序员失业吗",
+        "count": 1
+      },
+      {
+        "word": "如果会",
+        "count": 1
+      },
+      {
+        "word": "是多久",
+        "count": 1
+      },
+      {
+        "word": "基于开源项目",
+        "count": 1
+      },
+      {
+        "word": "的实践观察",
+        "count": 1
+      },
+      {
+        "word": "在架构设计等抽象工作上表现优异",
+        "count": 1
+      },
+      {
+        "word": "成本远低于人力",
+        "count": 1
+      },
+      {
+        "word": "块钱对比几人天",
+        "count": 1
+      },
+      {
+        "word": "但仍存在",
+        "count": 1
+      },
+      {
+        "word": "较多",
+        "count": 1
+      },
+      {
+        "word": "理解不足等缺陷",
+        "count": 1
+      },
+      {
+        "word": "多位",
+        "count": 1
+      },
+      {
+        "word": "年内",
+        "count": 1
+      },
+      {
+        "word": "将完成编程大部分工作",
+        "count": 1
+      },
+      {
+        "word": "真的能代替程序猿吗",
+        "count": 1
+      },
+      {
+        "word": "文章声称",
+        "count": 1
+      },
+      {
+        "word": "三年内",
+        "count": 1
+      },
+      {
+        "word": "能替代",
+        "count": 1
+      },
+      {
+        "word": "高耦合高重复工作",
+        "count": 1
+      },
+      {
+        "word": "五年内替代",
+        "count": 1
+      },
+      {
+        "word": "底层部署和架构工作",
+        "count": 1
+      },
+      {
+        "word": "八年内替代",
+        "count": 1
+      },
+      {
+        "word": "常见算法应用",
+        "count": 1
+      },
+      {
+        "word": "生成代码需大量",
+        "count": 1
+      },
+      {
+        "word": "和排错",
+        "count": 1
+      },
+      {
+        "word": "但未来几年可能实现替代",
+        "count": 1
+      },
+      {
+        "word": "能否取代程序员",
+        "count": 1
+      },
+      {
+        "word": "说它能取代程序员时",
+        "count": 1
+      },
+      {
+        "word": "产品经理笑了",
+        "count": 1
+      },
+      {
+        "word": "论述当前",
+        "count": 1
+      },
+      {
+        "word": "无法替代专业程序员",
+        "count": 1
+      },
+      {
+        "word": "核心观点",
+        "count": 1
+      },
+      {
+        "word": "软件开发涉及理解需求",
+        "count": 1
+      },
+      {
+        "word": "系统设计",
+        "count": 1
+      },
+      {
+        "word": "代码维护等多方面工作",
+        "count": 1
+      },
+      {
+        "word": "在复杂业务逻辑和系统架构设计上存在局限",
+        "count": 1
+      },
+      {
+        "word": "程序员需要承担责任和做出技术决策",
+        "count": 1
+      },
+      {
+        "word": "如果通过和",
+        "count": 1
+      },
+      {
+        "word": "对话就能写程序",
+        "count": 1
+      },
+      {
+        "word": "那么程序员会失业吗",
+        "count": 1
+      },
+      {
+        "word": "如果在未来",
+        "count": 1
+      },
+      {
+        "word": "通过和",
+        "count": 1
+      },
+      {
+        "word": "对话",
+        "count": 1
+      },
+      {
+        "word": "就能得到想要并可执行的程序",
+        "count": 1
+      },
+      {
+        "word": "那么程序员群体会失业吗",
+        "count": 1
+      },
+      {
+        "word": "或者说收入会大幅度降低吗",
+        "count": 1
+      },
+      {
+        "word": "开一帖",
+        "count": 1
+      },
+      {
+        "word": "论证",
+        "count": 1
+      },
+      {
+        "word": "浪潮下程序员如何自救",
+        "count": 1
+      },
+      {
+        "word": "技术迭代太快",
+        "count": 1
+      },
+      {
+        "word": "技术趋势本身有点吃不消",
+        "count": 1
+      },
+      {
+        "word": "写代码完胜程序员",
+        "count": 1
+      },
+      {
+        "word": "拉低了经验成本",
+        "count": 1
+      },
+      {
+        "word": "参与",
+        "count": 1
+      },
+      {
+        "word": "研究需要",
+        "count": 1
+      },
+      {
+        "word": "背景",
+        "count": 1
+      },
+      {
+        "word": "转方向成本巨大",
+        "count": 1
+      },
+      {
+        "word": "需要快速行动",
+        "count": 1
+      },
+      {
+        "word": "深入",
+        "count": 1
+      },
+      {
+        "word": "浪潮",
+        "count": 1
+      },
+      {
+        "word": "大模型人工智能是不是马上就要代替程序员了",
+        "count": 1
+      },
+      {
+        "word": "自动驾驶方面",
+        "count": 1
+      },
+      {
+        "word": "大模型端到端",
+        "count": 1
+      },
+      {
+        "word": "已经把很多写规则写控制的程序员端掉了",
+        "count": 1
+      },
+      {
+        "word": "都在关心",
+        "count": 1
+      },
+      {
+        "word": "会不会让程序员失业",
+        "count": 1
+      },
+      {
+        "word": "最头疼不应该是",
+        "count": 1
+      }
+    ]
+  },
+  "sentiment": {
+    "english": {
+      "distribution": {
+        "positive": 177,
+        "neutral": 475,
+        "negative": 182
+      },
+      "average_score": 0.002
+    },
+    "chinese": {
+      "distribution": {
+        "neutral": 33,
+        "negative": 34,
+        "positive": 8
+      },
+      "average_score": -0.338
+    }
+  },
+  "topics": {
+    "english": {
+      "job_replacement": {
+        "count": 120
+      },
+      "skill_requirements": {
+        "count": 64
+      },
+      "career_development": {
+        "count": 139
+      },
+      "ai_tools": {
+        "count": 197
+      },
+      "industry_impact": {
+        "count": 192
+      },
+      "emotional_response": {
+        "count": 34
+      }
+    },
+    "chinese": {
+      "job_replacement": {
+        "count": 28
+      },
+      "skill_requirements": {
+        "count": 7
+      },
+      "career_development": {
+        "count": 15
+      },
+      "ai_tools": {
+        "count": 12
+      },
+      "industry_impact": {
+        "count": 26
+      },
+      "emotional_response": {
+        "count": 4
+      }
+    }
+  },
+  "time_trend": {
+    "2022": {
+      "count": 1,
+      "avg_sentiment": -1.0
+    },
+    "2023": {
+      "count": 4,
+      "avg_sentiment": -0.75
+    },
+    "2024": {
+      "count": 6,
+      "avg_sentiment": -0.422
+    },
+    "2025": {
+      "count": 13,
+      "avg_sentiment": -0.405
+    }
+  }
+}

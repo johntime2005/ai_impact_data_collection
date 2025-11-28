@@ -1,0 +1,642 @@
+[
+  {
+    "platform": "v2ex",
+    "type": "topic",
+    "topic_id": 1081151,
+    "url": "https://v2ex.com/t/1081151",
+    "title": "程序员会是最先被 AI 取代的职业吗？",
+    "author": "reDesign",
+    "created_at": "2024-10-17",
+    "view_count": 7480,
+    "comment_count": 66,
+    "content": "如果AI能提升程序员效率2倍，市场需求不变的情况下，所需人员会大幅减少。公式：需要的人员数量=市场开发需求总量/(人的基础效率*AI效率提升倍数)。认为'取代'并非指AI自主编码，而是当每个程序员的效率都翻倍时，市场需求的人数会显著下降。",
+    "tags": ["程序员", "AI", "效率"],
+    "scraped_at": "2025-11-28",
+    "comments": [
+      {
+        "floor": 1,
+        "author": "charlie21",
+        "content": "最先被AI吓尿裤子的就是最先被取代的",
+        "created_at": "2024-10-17"
+      },
+      {
+        "floor": 2,
+        "author": "newaccount",
+        "content": "是，行了吧，赶紧学ai去",
+        "created_at": "2024-10-17"
+      },
+      {
+        "floor": 3,
+        "author": "reDesign",
+        "content": "纸质杂志被互联网冲击时，最先转型的媒体做得很好，但很多后知后觉的出版社倒闭了",
+        "created_at": "2024-10-17"
+      },
+      {
+        "floor": 13,
+        "author": "AdminZ",
+        "content": "为何不换个思路，不会用AI的人才被淘汰",
+        "created_at": "2024-10-17"
+      },
+      {
+        "floor": 16,
+        "author": "xiaoz",
+        "content": "不会，取代的是不想学习和顺应时代的人",
+        "created_at": "2024-10-17"
+      },
+      {
+        "floor": 20,
+        "author": "mhycy",
+        "content": "AI鼎盛后没什么不可替代，最终需要改变分配模式",
+        "created_at": "2024-10-17"
+      },
+      {
+        "floor": 27,
+        "author": "mandex",
+        "content": "效率x2，为什么还要996？AI应该让人有更多休息时间",
+        "created_at": "2024-10-17"
+      },
+      {
+        "floor": 33,
+        "author": "danhahaha",
+        "content": "企业已开始裁员审核和HR岗位，AI确实在替代某些工作",
+        "created_at": "2024-10-17"
+      },
+      {
+        "floor": 50,
+        "author": "gpt5",
+        "content": "应该是。代码是最规范语言，AI擅长语言接龙",
+        "created_at": "2024-10-18"
+      },
+      {
+        "floor": 62,
+        "author": "victorc",
+        "content": "新产品以前需40-50人团队，现在10人搞定",
+        "created_at": "2024-10-18"
+      }
+    ],
+    "is_relevant": true,
+    "relevance_note": "讨论AI取代程序员的可能性和时间预期"
+  },
+  {
+    "platform": "v2ex",
+    "type": "topic",
+    "topic_id": 1111274,
+    "url": "https://v2ex.com/t/1111274",
+    "title": "AI 对程序员行业的冲击到底有多大",
+    "author": "pureGirl",
+    "created_at": "2025-02-13",
+    "view_count": 18040,
+    "comment_count": 141,
+    "content": "用了cursor感觉自己干2-3个人的活没啥问题。有了AI之后程序员应该更关注底层还是应用层面的内容？",
+    "tags": ["AI", "程序员", "效率"],
+    "scraped_at": "2025-11-28",
+    "comments": [
+      {
+        "floor": 1,
+        "author": "zpxshl",
+        "content": "效率变高，但需求并没有变多，供求关系自然会变",
+        "created_at": "2025-02-13"
+      },
+      {
+        "floor": 2,
+        "author": "Mark24",
+        "content": "你不涨工资，为什么要主动干2-3人的活？",
+        "created_at": "2025-02-13"
+      },
+      {
+        "floor": 3,
+        "author": "huage",
+        "content": "我用GPT完成了原本需要找专业开发者做的桌面软件开发工作",
+        "created_at": "2025-02-13"
+      }
+    ],
+    "is_relevant": true,
+    "relevance_note": "讨论AI工具对程序员效率和就业的影响"
+  },
+  {
+    "platform": "v2ex",
+    "type": "topic",
+    "topic_id": 953306,
+    "url": "https://v2ex.com/t/953306",
+    "title": "AI 编程会让程序员失业吗？如果会，是多久？",
+    "author": "alexapollo",
+    "created_at": "2023-07-01",
+    "comment_count": 47,
+    "content": "基于开源项目MetaGPT的实践观察。AI在架构设计等抽象工作上表现优异，成本远低于人力（约1块钱对比几人天），但仍存在bug较多、UI理解不足等缺陷。多位CTO认为3-5年内AI将完成编程大部分工作。",
+    "tags": ["AI", "程序员", "失业", "架构"],
+    "scraped_at": "2025-11-28",
+    "comments": [
+      {
+        "floor": 1,
+        "author": "oahzgg",
+        "content": "已经失业了",
+        "created_at": "2023-07-01"
+      },
+      {
+        "floor": 5,
+        "author": "chendy",
+        "content": "难点在理解真实需求、维护遗留代码而非写代码本身",
+        "created_at": "2023-07-01"
+      },
+      {
+        "floor": 10,
+        "author": "Jones2000",
+        "content": "AI提升效率后反而提高行业门槛，程序员价值增加",
+        "created_at": "2023-07-03"
+      }
+    ],
+    "is_relevant": true,
+    "relevance_note": "讨论AI编程能力和程序员失业时间预期"
+  },
+  {
+    "platform": "v2ex",
+    "type": "topic",
+    "topic_id": 1089194,
+    "url": "https://v2ex.com/t/1089194",
+    "title": "AI 真的能代替程序猿吗？",
+    "author": "jeckyhuang",
+    "created_at": "2024-11-13",
+    "comment_count": 88,
+    "content": "文章声称：三年内AI能替代50%高耦合高重复工作；五年内替代80%底层部署和架构工作；八年内替代90%常见算法应用。当前AI生成代码需大量review和排错，但未来几年可能实现替代。",
+    "tags": ["AI", "程序员", "替代"],
+    "scraped_at": "2025-11-28",
+    "key_viewpoints": [
+      {
+        "position": "不能完全替代",
+        "arguments": [
+          "大模型本质是模式匹配，复杂逻辑推理无法处理",
+          "程序员需要review代码和处理沟通需求",
+          "需要人员背锅和承担责任"
+        ]
+      },
+      {
+        "position": "能显著替代",
+        "arguments": [
+          "Cursor等工具已可减少团队人数50%",
+          "简单重复工作已被替代",
+          "提升个体生产力上限"
+        ]
+      },
+      {
+        "position": "部分替代观点",
+        "arguments": [
+          "能替代初级程序员",
+          "中高级开发仍不可替代",
+          "需要人进行架构设计和需求理解"
+        ]
+      }
+    ],
+    "is_relevant": true,
+    "relevance_note": "讨论AI替代程序员的不同观点和时间线"
+  },
+  {
+    "platform": "v2ex",
+    "type": "topic",
+    "topic_id": 1103291,
+    "url": "https://v2ex.com/t/1103291",
+    "title": "AI 能否取代程序员？当 AI 说它能取代程序员时，产品经理笑了",
+    "author": "ashin",
+    "created_at": "2025-01-05",
+    "view_count": 1723,
+    "comment_count": 5,
+    "content": "论述当前AI无法替代专业程序员。核心观点：软件开发涉及理解需求、系统设计、代码维护等多方面工作；AI在复杂业务逻辑和系统架构设计上存在局限；程序员需要承担责任和做出技术决策。",
+    "tags": ["AI", "程序员", "替代"],
+    "scraped_at": "2025-11-28",
+    "comments": [
+      {
+        "floor": 3,
+        "author": "JingW",
+        "content": "若AI真能替代程序员，产品经理将无处可笑",
+        "created_at": "2025-01-05"
+      },
+      {
+        "floor": 5,
+        "author": "CodeAllen",
+        "content": "讽刺若AI替代程序员，应该连产品经理等整个团队都被替代",
+        "created_at": "2025-01-05"
+      }
+    ],
+    "is_relevant": true,
+    "relevance_note": "讨论AI替代程序员的局限性"
+  },
+  {
+    "platform": "v2ex",
+    "type": "topic",
+    "topic_id": 948272,
+    "url": "https://v2ex.com/t/948272",
+    "title": "如果通过和 GPT 对话就能写程序，那么程序员会失业吗？",
+    "author": "sdjl",
+    "created_at": "2023-06-13",
+    "comment_count": 61,
+    "content": "如果在未来，通过和GPT对话，就能得到想要并可执行的程序，那么程序员群体会失业吗？或者说收入会大幅度降低吗？",
+    "tags": ["GPT", "程序员", "失业"],
+    "scraped_at": "2025-11-28",
+    "comments": [
+      {
+        "floor": 1,
+        "author": "sarices",
+        "content": "你试试让GPT写一个购物网站试试，看要多久，然后对比一下你自己写一个要多久",
+        "created_at": "2023-06-13"
+      },
+      {
+        "floor": 2,
+        "author": "LokiSharp",
+        "content": "写垃圾代码的打工仔会被解放生产力",
+        "created_at": "2023-06-13"
+      },
+      {
+        "floor": 4,
+        "author": "lujiaosama",
+        "content": "写DEMO可以，改BUG、二次开发怎么搞？会写代码的原来需要10个，现在只要1个倒是很有可能",
+        "created_at": "2023-06-13"
+      },
+      {
+        "floor": 10,
+        "author": "brookegas",
+        "content": "MidJourney让多少设计公司直接裁员一半。未来的软件公司主要人员结构会是极少数架构师+少量初级程序员+OpenAI工具",
+        "created_at": "2023-06-14"
+      },
+      {
+        "floor": 15,
+        "author": "xujiabin",
+        "content": "AI不会淘汰人，但会用AI的人会淘汰人",
+        "created_at": "2023-06-14"
+      }
+    ],
+    "is_relevant": true,
+    "relevance_note": "讨论GPT对话编程对程序员就业的影响"
+  },
+  {
+    "platform": "v2ex",
+    "type": "topic",
+    "topic_id": 1114146,
+    "url": "https://v2ex.com/t/1114146",
+    "title": "开一帖，论证 AI 浪潮下程序员如何自救",
+    "author": "zhjunjun",
+    "created_at": "2025-02-27",
+    "comment_count": 44,
+    "content": "AI技术迭代太快，技术趋势本身有点吃不消；AI写代码完胜程序员，拉低了经验成本；参与LLM研究需要ML/DL背景，转方向成本巨大；需要快速行动，深入AI浪潮",
+    "tags": ["AI", "程序员自救", "技术迭代"],
+    "scraped_at": "2025-11-28",
+    "comments": [
+      {
+        "floor": 1,
+        "author": "yb2313",
+        "content": "很简单，我飞升不就是了？说罢，一把抓住神经网络模型，顷刻间炼化",
+        "created_at": "2025-02-27"
+      },
+      {
+        "floor": 2,
+        "author": "feikaras",
+        "content": "就算你转AI，AI也只需要比以前程序员少得多的人。你首先得卷得过。要么放弃计算机，要么继续混日子。",
+        "created_at": "2025-02-27"
+      },
+      {
+        "floor": 3,
+        "author": "dzdh",
+        "content": "企业服务帮他们用AI。大模型很好，但是没场景不会用...定制化RAG开发需求存在。",
+        "created_at": "2025-02-27"
+      },
+      {
+        "floor": 5,
+        "author": "WngShhng",
+        "content": "本质上是分配问题。因为ai提升效率，一定会导致岗位减少...最好的职业规划不是内卷，而是降低负债。",
+        "created_at": "2025-02-27"
+      },
+      {
+        "floor": 6,
+        "author": "dearmymy",
+        "content": "AI冲击下惨的是初级岗位。这个是利好技术型、年纪大的程序员...可以把自己变成四个人用。",
+        "created_at": "2025-02-27"
+      }
+    ],
+    "is_relevant": true,
+    "relevance_note": "讨论程序员如何应对AI浪潮"
+  },
+  {
+    "platform": "v2ex",
+    "type": "topic",
+    "topic_id": 1102613,
+    "url": "https://v2ex.com/t/1102613",
+    "title": "大模型人工智能是不是马上就要代替程序员了",
+    "author": "DBQ",
+    "created_at": "2025-01-05",
+    "comment_count": 56,
+    "content": "自动驾驶方面，大模型端到端，已经把很多写规则写控制的程序员端掉了。",
+    "tags": ["大模型", "程序员", "自动驾驶"],
+    "scraped_at": "2025-11-28",
+    "comments": [
+      {
+        "floor": 1,
+        "author": "mumbler",
+        "content": "AI是能力放大器，CTO带2个高程就能干过去几十人团队干的事",
+        "created_at": "2025-01-05",
+        "upvotes": 4
+      },
+      {
+        "floor": 3,
+        "author": "f2A2RUpR2HgfHg5a",
+        "content": "是的，趁早当保安，少走几十年弯路。",
+        "created_at": "2025-01-05",
+        "upvotes": 6
+      },
+      {
+        "floor": 4,
+        "author": "DBQ",
+        "content": "现在是一个高工带七八个廉价的实习生就把活干了，现在很多自动驾驶公司，大量使用廉价的长期实习生。",
+        "created_at": "2025-01-05"
+      },
+      {
+        "floor": 5,
+        "author": "ZhangT03023",
+        "content": "开发和维护团队的整体规模应该会进一步萎缩吧。大佬还是大佬；中层生存压力加大；底层只有少数人还能吃上这口饭。",
+        "created_at": "2025-01-05"
+      }
+    ],
+    "is_relevant": true,
+    "relevance_note": "讨论大模型对程序员岗位的冲击"
+  },
+  {
+    "platform": "v2ex",
+    "type": "topic",
+    "topic_id": 900339,
+    "url": "https://v2ex.com/t/900339",
+    "title": "都在关心 AI 会不会让程序员失业，最头疼不应该是 Google 吗？",
+    "author": "amlee",
+    "created_at": "2022-12-05",
+    "view_count": 6059,
+    "comment_count": 37,
+    "content": "这玩意看起来就是一个在你身边的可以随时回答你各个专业问题的专家，感觉以后除了新闻娱乐，没啥需要搜索的场景了",
+    "tags": ["程序员", "Google", "AI"],
+    "scraped_at": "2025-11-28",
+    "comments": [
+      {
+        "floor": 1,
+        "author": "LemonZest",
+        "content": "我更担心以后搜索结果的寻找，识别成本更高。至于没啥搜索场景我不觉得",
+        "created_at": "2022-12-05"
+      },
+      {
+        "floor": 4,
+        "author": "sky96111",
+        "content": "Google完全也可以在搜索中引入这个功能呀",
+        "created_at": "2022-12-05"
+      },
+      {
+        "floor": 6,
+        "author": "coderluan",
+        "content": "专业问题离不开搜索引擎，否则AI给你的答案你连是不是正确都没办法判断",
+        "created_at": "2022-12-05"
+      },
+      {
+        "floor": 18,
+        "author": "AmericanExpress",
+        "content": "Google search ad revenue占总利润57.2%，对比iPhone在苹果总利润占比是47.3%",
+        "created_at": "2022-12-06"
+      }
+    ],
+    "is_relevant": true,
+    "relevance_note": "讨论AI对搜索引擎和IT行业的影响"
+  },
+  {
+    "platform": "v2ex",
+    "type": "topic",
+    "topic_id": 914122,
+    "url": "https://v2ex.com/t/914122",
+    "title": "ChatGPT 的到来，我们处在时代拐点的边缘了吗？",
+    "author": "areschen",
+    "created_at": "2023-02-08",
+    "comment_count": 43,
+    "content": "讨论ChatGPT和生成式AI带来的思考：1)认为强人工智能可能不遥远；2)担忧AI导致大规模失业；3)关切教育问题，因知识可能快速过时；4)思考人类是否会成为'无用阶级'",
+    "tags": ["ChatGPT", "AI", "失业", "时代变革"],
+    "scraped_at": "2025-11-28",
+    "comments": [
+      {
+        "floor": 1,
+        "author": "leimao",
+        "content": "幼儿园老师、养老院护工、婴儿保姆等职业在未来100年内应不会被完全取代",
+        "created_at": "2023-02-08"
+      },
+      {
+        "floor": 3,
+        "author": "eason1874",
+        "content": "工业革命两百多年后，手工业仍广泛存在。人力成本比机器便宜，企业没动力替换",
+        "created_at": "2023-02-08"
+      },
+      {
+        "floor": 7,
+        "author": "dlsflh",
+        "content": "技术上公务员最容易被替代，实际上可能最难被替代",
+        "created_at": "2023-02-08"
+      },
+      {
+        "floor": 9,
+        "author": "pperlee",
+        "content": "律师提出'背锅的职业很难被AI取代'的观点",
+        "created_at": "2023-02-08"
+      },
+      {
+        "floor": 11,
+        "author": "zooo",
+        "content": "曾认为创作类职业难被替代，但AIGC已能进行绘画、作曲等创作",
+        "created_at": "2023-02-08"
+      },
+      {
+        "floor": 14,
+        "author": "debuggerx",
+        "content": "短期核心竞争力是保持独立思考，长期则面临无解困局",
+        "created_at": "2023-02-08"
+      },
+      {
+        "floor": 20,
+        "author": "overwall2016w",
+        "content": "认为正处变革期，建议学习AI、使用工具、投资AI企业",
+        "created_at": "2023-02-08"
+      },
+      {
+        "floor": 34,
+        "author": "webcape233",
+        "content": "实际使用ChatGPT，查东西方便但存在错误，对工程师冲击有限",
+        "created_at": "2023-02-08"
+      }
+    ],
+    "is_relevant": true,
+    "relevance_note": "讨论ChatGPT带来的时代变革和职业影响"
+  },
+  {
+    "platform": "v2ex",
+    "type": "topic",
+    "topic_id": 1165999,
+    "url": "https://v2ex.com/t/1165999",
+    "title": "有些大厂已经开始要求新增代码 AI 生成的占比量了",
+    "author": "rockxsj",
+    "created_at": "2025-10-16",
+    "comment_count": 139,
+    "content": "京东部分部门要求后端代码手写比例不超过10%，客户端需100%生成，由IDE插件自动统计，不达标将淘汰。",
+    "tags": ["AI代码生成", "编程要求", "被淘汰"],
+    "scraped_at": "2025-11-28",
+    "comments": [
+      {
+        "floor": 1,
+        "author": "MIUIOS",
+        "content": "解放劳动力，不加班就行，失业不存在，只是淘汰不会用AI的人",
+        "created_at": "2025-10-16"
+      },
+      {
+        "floor": 6,
+        "author": "msn1983aa",
+        "content": "让程序员自掘坟墓，不挖就直接开枪",
+        "created_at": "2025-10-16",
+        "upvotes": 58
+      },
+      {
+        "floor": 30,
+        "author": "RotkPPP",
+        "content": "问了3位JD同学，2后端1客户端，提到过但未说百分比，不强制",
+        "created_at": "2025-10-16",
+        "upvotes": 13
+      }
+    ],
+    "is_relevant": true,
+    "relevance_note": "讨论大厂对AI代码生成的强制要求"
+  },
+  {
+    "platform": "v2ex",
+    "type": "topic",
+    "topic_id": 1095988,
+    "url": "https://v2ex.com/t/1095988",
+    "title": "云计算革了运维的命，现在大模型革了程序员的命",
+    "author": "wellhome",
+    "created_at": "2024-12-09",
+    "comment_count": 156,
+    "content": "云计算infra as code，迅速革了运维老哥们的命。程序员说你们运维的活，我们code包了。结果这才几年不到，大模型来了，这些程序员也要被革了。攒钱买股权，才是正道。",
+    "tags": ["云计算", "大模型", "运维", "程序员"],
+    "scraped_at": "2025-11-28",
+    "comments": [
+      {
+        "floor": 1,
+        "author": "cnevil",
+        "content": "AI存在多年，为什么现在才恐慌？这种思维类似加密货币炒作",
+        "created_at": "2024-12-09"
+      },
+      {
+        "floor": 6,
+        "author": "fredweili",
+        "content": "只有低水平IT人员会受影响，有真正解决问题能力的会适应",
+        "created_at": "2024-12-09",
+        "upvotes": 4
+      },
+      {
+        "floor": 82,
+        "author": "wellhome",
+        "content": "我以前是运维，现在没活了，转了编程。编程也快消失了。",
+        "created_at": "2024-12-10"
+      }
+    ],
+    "is_relevant": true,
+    "relevance_note": "讨论技术变革对IT职业的连续冲击"
+  },
+  {
+    "platform": "v2ex",
+    "type": "topic",
+    "topic_id": 1114252,
+    "url": "https://v2ex.com/t/1114252",
+    "title": "低层开发仔，越来越担忧被 AI 取代了",
+    "author": "xcid",
+    "created_at": "2025-02-26",
+    "comment_count": 87,
+    "content": "21年大模型爆发前夕转行做了开发，刚学会的技能还没捂热乎，就肉眼可见地迅速贬值。乐观预期：初级开发职位缩减50%。悲观预期：初级开发职位缩减100%。不知道接下来要做啥。以前一直是新技术的拥护者，直到砸到自己头上，才感受到被淘汰的恐惧。",
+    "tags": ["AI", "初级程序员", "职业规划"],
+    "scraped_at": "2025-11-28",
+    "comments": [
+      {
+        "floor": 1,
+        "author": "thinkm",
+        "content": "是的，AI目前在编程这方面最拿手。编程也是最容易被AI替代的工作，没有之一",
+        "created_at": "2025-02-26",
+        "upvotes": 1
+      },
+      {
+        "floor": 8,
+        "author": "fengtaida",
+        "content": "为什么总是传播焦虑？那怎么不去死？",
+        "created_at": "2025-02-26",
+        "upvotes": 34
+      },
+      {
+        "floor": 15,
+        "author": "BruceXu",
+        "content": "你和大牛在编码上的差距>10年，你和大牛在使用AI编码上的差距<1年。努力吧，不要成为被替代的那批人。",
+        "created_at": "2025-02-26"
+      },
+      {
+        "floor": 29,
+        "author": "126ium",
+        "content": "主要是你菜。文科生来凑什么热闹？真以为咱们这行是公交车？谁来都能上",
+        "created_at": "2025-02-26",
+        "upvotes": 4
+      }
+    ],
+    "is_relevant": true,
+    "relevance_note": "初级程序员对AI取代的担忧"
+  },
+  {
+    "platform": "v2ex",
+    "type": "topic",
+    "topic_id": 1173968,
+    "url": "https://v2ex.com/t/1173968",
+    "title": "对 AI coding 高度夸赞和担心失业的，似乎前端从业者居多？",
+    "author": "secsilm",
+    "created_at": "2025-11-20",
+    "comment_count": 38,
+    "content": "各位朋友，你们的身边统计学结果如何？欢迎分享。注意只讲'大多数'，个别的不在讨论之列。",
+    "tags": ["AI", "Coding", "unemployment"],
+    "scraped_at": "2025-11-28",
+    "comments": [
+      {
+        "floor": 1,
+        "author": "wei2629",
+        "content": "我是后端，我觉得后端也躲不过去。主要是后端链路长，很多地方ai触摸不到。",
+        "created_at": "2025-11-20"
+      },
+      {
+        "floor": 2,
+        "author": "cvooc",
+        "content": "确切的说，应该是半吊子新手/外行人和用AI做了个技术栈外的东西就觉得自己行了的老手。",
+        "created_at": "2025-11-20"
+      },
+      {
+        "floor": 5,
+        "author": "DICK23",
+        "content": "跟前后端没啥关系，业务关联性不高的，重复性的工作岗位基本都会被波及。",
+        "created_at": "2025-11-20"
+      },
+      {
+        "floor": 8,
+        "author": "gpt5",
+        "content": "任何一个现在用ai用的特别爽的行业，都容易被ai取代。所以不分什么前后左右端，都要完蛋。",
+        "created_at": "2025-11-20"
+      },
+      {
+        "floor": 10,
+        "author": "vansiit",
+        "content": "前端稍微容易ai coding一点。原因是提示词更好写，需要调整的地方更直观可验证。",
+        "created_at": "2025-11-20"
+      },
+      {
+        "floor": 13,
+        "author": "dcatfly",
+        "content": "前端是能看到的界面，更容易被理解和分享生成的成果。当前ai冲击的是curd/初中级程序员的市场。",
+        "created_at": "2025-11-20"
+      },
+      {
+        "floor": 15,
+        "author": "xsen",
+        "content": "问题点不是在ai弱，是使用ai的人不懂业务、不懂架构。人弱导致AI弱，人强自然AI强。",
+        "created_at": "2025-11-23"
+      }
+    ],
+    "is_relevant": true,
+    "relevance_note": "讨论不同技术岗位受AI影响的差异"
+  }
+]

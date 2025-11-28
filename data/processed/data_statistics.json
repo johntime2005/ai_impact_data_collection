@@ -1,0 +1,29 @@
+{
+  "total_posts": 24,
+  "total_comments": 885,
+  "avg_comments_per_post": 36.9,
+  "platform_distribution": {
+    "reddit": {
+      "posts": 10,
+      "comments": 824
+    },
+    "v2ex": {
+      "posts": 14,
+      "comments": 61
+    }
+  },
+  "year_distribution": {
+    "2022": 1,
+    "2023": 4,
+    "2024": 6,
+    "2025": 13
+  },
+  "language_distribution": {
+    "en": 824,
+    "zh": 61
+  },
+  "date_range": {
+    "earliest": "2022-12-05",
+    "latest": "2025-11-20"
+  }
+}
