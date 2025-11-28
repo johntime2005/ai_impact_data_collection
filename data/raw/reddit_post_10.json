@@ -1,0 +1,617 @@
+{
+  "platform": "reddit",
+  "type": "submission",
+  "url": "https://www.reddit.com/r/cscareerquestions/comments/1mk8zj6/the_fact_that_chatgpt_5_is_barely_an_improvement/",
+  "subreddit": "cscareerquestions",
+  "scraped_at": "2025-11-21T05:53:18.977Z",
+  "title": "The fact that ChatGPT 5 is barely an improvement shows that AI won't replace software engineers.",
+  "content": "I've been keeping an eye on ChatGPT as it's evolved, and with the release of ChatGPT 5, it honestly feels like the improvements have slowed way down. Earlier versions brought some pretty big jumps in what AI could do, especially with coding help. But now, the upgrades feel small and kind of incremental. It's like we're hitting diminishing returns on how much better these models get at actually replacing real coding work.\n\nThat's a big deal, because a lot of people talk like AI is going to replace software engineers any day now. Sure, AI can knock out simple tasks and help with boilerplate stuff, but when it comes to the complicated parts such as designing systems, debugging tricky issues, understanding what the business really needs, and working with a team, it still falls short. Those things need creativity and critical thinking, and AI just isn't there yet.\n\nSo yeah, the tech is cool and it'll keep getting better, but the progress isn't revolutionary anymore. My guess is AI will keep being a helpful assistant that makes developers' lives easier, not something that totally replaces them. It's great for automating the boring parts, but the unique skills engineers bring to the table won't be copied by AI anytime soon. It will become just another tool that we'll have to learn.\n\nI know this post is mainly about the new ChatGPT 5 release, but TBH it seems like all the other models are hitting diminishing returns right now as well.\n\nWhat are your thoughts?",
+  "author": "cs-grad-person-man",
+  "created_at": "2025-08-07T19:07:34.565Z",
+  "upvotes": 0,
+  "comment_count": 100,
+  "comments": [
+    {
+      "author": "raccoonDenier",
+      "content": "You have to understand that a lot of decisions aren't based on how good AI is. It just has to be good enough to convince the non-technical person making decisions at an organization. As you can probably guess, the bar there is pretty low.",
+      "upvotes": 799,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "ThePiousInfant",
+      "content": "AI ultimately thrives at convincing non-experts in a given field that it is an expert in that field.",
+      "upvotes": 246,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "digital_soapbox",
+      "content": "This reminds me of what Elon Musk has built his empire on.",
+      "upvotes": 84,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "FormlessFlesh",
+      "content": "Please don't tell us Musk is our first sentient AI and we didn't even know it.",
+      "upvotes": 33,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "zayoe4",
+      "content": "Sentient? He barely qualifies as sapient.",
+      "upvotes": 21,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "[deleted]",
+      "content": "YES! Thanks for saying that",
+      "upvotes": 27,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "WisestAirBender",
+      "content": "It just has to be good enough to convince the non-technical person making decisions at an organization. As you can probably guess, the bar there is pretty low.\n\nI completely agree. But if AI is not the solution to every problem then surely people will realize? Why hasn't that happened yet? Why is it still being pushed down everyone's throats",
+      "upvotes": 15,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "Hot_Marionberry_4685",
+      "content": "Because company executives are some of the stupidest people you'll ever meet",
+      "upvotes": 39,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "pragmojo",
+      "content": "In most organizations 20% of the people produce 80% of the value. You can degrade output quality for a long time for the average employee before it will start affecting the bottom line.",
+      "upvotes": 14,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "ceevar",
+      "content": "The early movers will regret it and hopefully that causes some market correction.",
+      "upvotes": 24,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "Due_Satisfaction2167",
+      "content": "As before, it's essentially like paying a small amount of money to have the gestalt mind of Stack Overflow write some code for you.",
+      "upvotes": 1428,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "Stock-Time-5117",
+      "content": "I've had juniors get salty because they need to write automated tests. When they write the tests they find bugs and assume the test itself is wrong. One even bypassed reviews by adding outside approvers and put a bug straight into prod.\n    \n      They used AI heavily.",
+      "upvotes": 168,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "Due_Satisfaction2167",
+      "content": "When they write the tests they find bugs and assume the test itself is wrong.\n    \n    \n      Oh I've seen that trick before. I was absolutely baffled by it when they explained why they were spinning their wheels for so long on the ticket.",
+      "upvotes": 31,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "wesborland1234",
+      "content": "It's usually easier to change the tests than fix the bug.",
+      "upvotes": 14,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "PracticalAdeptness20",
+      "content": "What do you mean adding outside approvers?",
+      "upvotes": 28,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "khooke",
+      "content": "Side stepping normal / agreed approvers (e.g your lead or senior devs on your team), by asking someone else to approve, who maybe has less interest in actually taking the time to review and provide feedback",
+      "upvotes": 80,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "ktpr",
+      "content": "How is that not a reprimand or a warning",
+      "upvotes": 52,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "meltbox",
+      "content": "It also should be enforced by requiring an approval from a code owner which is defined per software component.\n    \n      At least this seems like a sane way to do it.",
+      "upvotes": 17,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "fashionweekyear3000",
+      "content": "Sounds like some bad apples tbh, not willing to take criticism and sidestepping their managers for code review? They've got some fken balls because why are you doing that, no one cares you got it wrong the first time it's a learning experience.",
+      "upvotes": 30,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "SmuFF1186",
+      "content": "My feedback would be, why doesn't the repo have this locked down? Our git repo's are managed by the administrators and only the people in the assigned list(determined in the admin panel) can provide official approval to a PR. Others can join, but them approving the PR doesn't move it forward. This is a failure by management",
+      "upvotes": 19,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "evergreen-spacecat",
+      "content": "Many workplaces assumes the developers are responsible adults who can follow simple rules and instructions even if eveything is not locked down. You can't keep prople like that around, even with proper access levels. Think of every other workplace out there. Employees can do a lot of things in a workplace they should not, but most won't because they will be fired eventually.",
+      "upvotes": 13,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "Brilliant_Store_7636",
+      "content": "Can attest. I am both simultaneously a developer and an irresponsible adult.",
+      "upvotes": 5,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "LostJacket3",
+      "content": "got 2 of them in my team. i started to encourage them more to use AI. lol make me laugh every day. when shit will hit the fan, and it will, i'll get a promotion to fix all of this. I might even get into management position directly, taking my boss job lol",
+      "upvotes": 8,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "vustinjernon",
+      "content": "Vibecoder: rewrite this to accommodate for this other edge case GPT: Can do! removes original case \n    \n      Repeat ad infinitum",
+      "upvotes": 36,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "Greedy-Neck895",
+      "content": "Great for repetitive boilerplate, but I feel like every once in a while I have to go and manually do things just to reinforce how to do them.",
+      "upvotes": 44,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "CrownstrikeIntern",
+      "content": "I love my roi on time with it writing the stupid stuff for me. Stuff i can do but a few paragraphs here and there add up quick",
+      "upvotes": 9,
+      "created_at": "2025-11-21T05:53:18.979Z"
+    },
+    {
+      "author": "NotACockroach",
+      "content": "When I was in uni 10 years ago as a joke I made a vim plugin that would take a search prompt and insert the first code block from stack overflow.",
+      "upvotes": 8,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "SkySchemer",
+      "content": "I like to think of it as Stack Overflow but without the attitude.",
+      "upvotes": 7,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "dfphd",
+      "content": "So now, taking this to software development, data science, AI/ML, etc.\n    \n      What are the things that AI is going to probably be really good at?\n    \n      Unit testing. Boilerplate code. Quick prototypes. Toy UIs. 80/20 type solutions.\n    \n      How much time do development teams spend doing that stuff today? A lot. Does it deliver value? Not at all.\n    \n      What else do development teams do that actually delivers value?\n    \n        \n      \n      Translating what people say they wants vs. developing requirements that reflect what they actually need\n    \n    \n      \n      Solving hard, niche problems where details matter.\n    \n    \n      \n      Implement solutions as part of bigger processes or systems, understanding the impact and conflicts this might represent\n    \n    \n      \n      I've worked at 6 companies, ranging from software to food distribution. Every company I worked at had like 100 projects that weren't getting worked on because we either didn't have the data or the resources to do it. And that's because like 90% of the global IT/SWE/DE/MLE time is currently spent on tedious, non-value delivering tasks.\n    \n      If AI were to take 90% of those tasks away - yes, some companies might lay off 90% of their technical talent in a quest for short-term stock boosts.\n    \n      The smart companies that will capitalize on this are the ones that will just use the freed up bandwidth to aggressively modernize everything they do.",
+      "upvotes": 20,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "AerysSk",
+      "content": "Thanks for your insight. I work in software so I can confirm that what you say has points that are correct. I'm not an economic expert so I don't know what impact it brings on a large scale, and also not an AI researcher to know how far can it go. Currently, it does work for things that we find less value, in a faster manner.\n    \n      Does it develop new products? Not actually. Does it speed up stuffs? Yes.\n    \n      I had a recent case where I made a SQL view. My manager wants to understand it, so she posts the view's code and sample data to Copilot. It answers COMPLETELY WRONG, so eventually she turns to ask me instead.",
+      "upvotes": 7,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "alexforpostmates",
+      "content": "They obviously meant only needing ~80% of the workforce.",
+      "upvotes": 78,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "ParkingSoft2766",
+      "content": "Actually it should be 83.3% of the workforce",
+      "upvotes": 51,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "albertsteinstein",
+      "content": "100/120...damn ur right",
+      "upvotes": 13,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "RandyRandallsson",
+      "content": "Isn't that assuming they were initially running at 100% efficiency?\n    \n      Corporate rarely provides enough resources for that!",
+      "upvotes": 6,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "Telvin3d",
+      "content": "You obviously don't think like an executive",
+      "upvotes": 56,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "alexforpostmates",
+      "content": "Lmaooooo fair enough!",
+      "upvotes": 22,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "visarga",
+      "content": "Better question - how does becoming 20% more efficient affect jobs when your bosses expect you to be 10x more productive and pile on your head all the technical debt and abandoned ideas they didn't have bandwidth for in the past?\n    \n      What I noticed is that for all the help AI provides, business demands even more from me. It's exhausting. Vibe coding is hard because you have to keep up with a sped up process for hours.",
+      "upvotes": 6,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "[deleted]",
+      "content": "people are still rejecting typescript in 2025?? madness.",
+      "upvotes": 0,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "svix_ftw",
+      "content": "people are still rejecting typescript in 2025?? madness.",
+      "upvotes": 16,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "dowcet",
+      "content": "A helpful assessment of where we are right now: https://martinfowler.com/articles/pushing-ai-autonomy.html",
+      "upvotes": 222,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "deviantbono",
+      "content": "The model would generate features we hadn't asked for, make shifting assumptions around gaps in the requirements, and declare success even when tests were failing.\n\nSo... exactly like human engineers?",
+      "upvotes": 301,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "LetgomyEkko",
+      "content": "Except it forgets what it just wrote for you after 5 min",
+      "upvotes": 177,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "UnrelentingStupidity",
+      "content": "Sooo.. exactly like human engineers?",
+      "upvotes": 137,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "kitsnet",
+      "content": "The ones you wouldn't hire, yes.",
+      "upvotes": 147,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "0ut0fBoundsException",
+      "content": "Yeah. I only hire devs with 10 minute recall",
+      "upvotes": 49,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "nimshwe",
+      "content": "What engineers do you know lmao",
+      "upvotes": 37,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "[deleted]",
+      "content": "Can confirm I'm on his team",
+      "upvotes": 0,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "kingofthesqueal",
+      "content": "Can confirm I'm on his team",
+      "upvotes": 21,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "Beginning-Bug-154",
+      "content": "I think I'm working on his team, but can't quite remember.",
+      "upvotes": 9,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "Fidodo",
+      "content": "You know the industry is cooked because actually good engineers are so rare. Me and my team must be in an elite minority because we're actually proud of what we've built, have a process, and are not satisfied with the code quality of AI agents.",
+      "upvotes": 23,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "TheMainExperience",
+      "content": "Most engineers I work with have little awareness of basic OO or SOLID principles and rather than apply some simple inheritance will copy and paste classes. And as you mention, many engineers don't really care about what they are working on and will just bash stuff out to get it done.\n    \n      Same with code reviews; most will scan it and approve. I come along and spend 5 minutes looking at the PR and spot issues.  \n    \n      I also remember in my last interview when going through the console app I made for the technical assessment, the interviewer said \"What I like about this, is that it runs and doesn't blow up in my face\". \n    \n      The bar does seem to be quite low.",
+      "upvotes": 7,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "DynamicHunter",
+      "content": "Except you can't ever hold it accountable",
+      "upvotes": 13,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "thephotoman",
+      "content": "They talk about replacing us because they don't want to have to employ us.\n\nThat's it. It's a bunch of middle managers thinking that they're qualified to work the line, wanting to increase their pay by reducing their own head counts, and thinking that they'll survive the round of layoffs because they're special and keep the operation moving.\n\nAlso, based on how underwhelming ChatGPT5's improvement is, the technology isn't getting appreciably better. I suspect that we've already hit the limits of what LLMs can do effectively. They're impressive because they can pass a Turing test, but being able to pass a Turing test doesn't require correctness (and indeed may be limited by correctness: people believe bullshit all the time).",
+      "upvotes": 69,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "VibrantCanopy",
+      "content": "They can't even pass a Turing test. Ask ChatGPT to explain music theory some time, then drill down. It can't keep it all straight.",
+      "upvotes": 11,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "bluegrassclimber",
+      "content": "My thoughts are that Claude-4-sonnet is really good and way better than chatgpt 4.\n\nI haven't tried chatgpt 5 yet. I see it's available though, so I'm going to try it for my next story.\n\nI use these models with Cursor AI and am a huge fan. I find coding way more relaxing. Nonetheless, one can't simply be a BA and use it, I still need to be a senior developer IMO to harness it correctly.\n\nEDIT: after trying chatgpt 5, i like claude more. ChatGPT 5 was doing so crazy shit and churning and churning, it can't be trusted.",
+      "upvotes": 260,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "TheNewOP",
+      "content": "I find coding way more relaxing.\n\nI feel the same way, but it's important to realize that this doesn't mean we're more productive. It just means that the cognitive load and stress from programming is lower.",
+      "upvotes": 36,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "[deleted]",
+      "content": "I got Claude to create a few hundred lines of unit tests. Then I added a feature and had it modify the test. Iterate on that a few times. Then once Claude couldn't fix a failing unit test it wrote. It was so painful to debug I deleted the test and wrote it by hand.",
+      "upvotes": 27,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "ClvrNickname",
+      "content": "Even in writing boilerplate unit tests, which is one of AI's strengths, I've found you have to be very careful, because AI is really good at writing proper-seeming tests that don't actually test the thing you want them to. It's really easy to miss something like that when it's buried in a thousand lines of code that were all written at once, and it feels like the extra scrutiny you have to put into the code review largely cancels out the time savings.",
+      "upvotes": 14,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "bluegrassclimber",
+      "content": "yeah at first it was a miracle for unit tests, but i agree. it does crazy shit and mocks up stuff and overall i hate unit tests with or without AI equally as much lol",
+      "upvotes": 16,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "name-taken1",
+      "content": "I'm convinced we've hit a general plateau. Newer models will really just be about micro improvements: getting better at managing context, more reliable with tool calls, etc. But they really aren't getting fundamentally smarter or more creative at their core.\n\nSo, yeah, it'll not take anyone's jobs.",
+      "upvotes": 20,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "Normal-Book8258",
+      "content": "Maybe but this was what everyone was saying before Sonnet 3 and then 3.5 came out. I'm not saying it'll keep taking huge leaps forward but I wouldn't lose faith just yet. Remember chatGPT 5 isn't geared towards coding like Claude is.",
+      "upvotes": 8,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "india2wallst",
+      "content": "ChatGPT needs lot of default prompting to make the output concise and serious. Claude does this out of the box. Yes you can get rid of the idiotic emojis and the sycophantic followup task requests. I think OpenAI is more generous with usage limits in paid tier while I run out of Claude pro usage limits pretty fast.",
+      "upvotes": 8,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "PreparationAdvanced9",
+      "content": "Use it to prototype or setup greenfield projects from scratch. Once systems get somewhat complex, it simply becomes easier to code yourself.",
+      "upvotes": 45,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "Foreseerx",
+      "content": "Every technology has its inherent limitations that are not possible to overcome. The biggest issues for me with LLMs is their inaccuracy and their inability to solve non-trivial (read: something that's not googleable/something that the model hasn't trained on) tasks or even sometimes help in those tasks.\n\nThose stem from the inherent limitations of LLMs as a technology and I don't really think they're possible to completely get over in any way that's feasible financially.",
+      "upvotes": 108,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "Dirkdeking",
+      "content": "Maybe some other model needs to be explored for LLM's. Chat GPT is also surprisingly bad at chess, to the extent that GM's can easily beat it. But chess AI's are way beyond world champion levels for more than a decade.\n\nWhen it comes to programming or doing mathematics, perhaps we need something else. A kind of branching/evolution algorithm that rewards code that comes closer to solving a problem vs code that doesn't. An LLM only regurgitates what a lot of humans already have compiled. That just isn't efficient for certain problems, as you mentioned.",
+      "upvotes": 26,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "BrydonM",
+      "content": "It's shockingly bad at chess to the point where an avg casual player can beat it. I'm about 2000 ELO and played ChatGPT for fun and I'd estimate its ELO to be. somewhere around 800-900.\n\nIt'll oscillate between very strong moves and very weak moves. Playing a near perfect opening to then just hanging its queen and blundering the entire game",
+      "upvotes": 23,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "Messy-Recipe",
+      "content": "Yeah, this was actually one of the really disappointing things for me. Even from the standpoint of treating an LLM like an eager but fallible little helper, who will go find all the relevant bits from a Google search & write up a coherent document joining all the info & exclude irrelevant cruft... it failed at that for exploring chess openings or patterns. Not even playing a game mind you, just giving a text explanation for different lines\n    \n      Like I wanted to have it go into the actual thought processes behind why certain moves follow others & such. If you read the wikibooks chess opening theory on the Sicilian it does that pretty well, that is,m in terms of the logic behind when you defend certain things, bring out certain things at the time you do, branch points where you get to make a decision. I was hoping it could distill that info from the internet for arbitrary lines. But it couldn't even keep track of the lines themselves or valid moves properly\n    \n      Mind you this is stuff that's actually REALLY HARD to extract good info from on Google on your own, at least in my experience. there's so much similar info, things that might mention a line in passing but not delve into it, etc. Should be perfect for this use case. I guess the long lines of move notation don't play well with how it tokenizes things? Or maybe too much info is locked behind paid content or YouTube videos instead of actually written out in books or in public",
+      "upvotes": 5,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "soricellia",
+      "content": "But isnt this the biggest improvement with gpt 5? reducing the error and hallucination rate?.. at least based on the benchmarks they showed, its a significant improvement.",
+      "upvotes": 10,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "SanityAsymptote",
+      "content": "All AI outputs are hallucination, they're just increasing correlation with reality. \n\nThe fact that you can still access older versions of their LLM (and that they're free/cheaper) seems to indicate that newer versions are just additional post processing and workflow refinements rather than an improved model or different logic paradigm.",
+      "upvotes": 30,
+      "created_at": "2025-11-21T05:53:18.980Z"
+    },
+    {
+      "author": "Cool-Cicada9228",
+      "content": "I shared the same thought. It's somewhat comforting that the pace of change has slowed down. While the tools are useful, they don't entirely replace all coding jobs (except for junior roles). Another AI winter would mean we retain our jobs for a longer period, and we'd also experience increased software productivity, which is a mutually beneficial outcome.",
+      "upvotes": 36,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "jyajay2",
+      "content": "Current AI technology won't replace programmers but there may be new AI technologies that will. That being said, once you can replace SWEs with AI you'll be able to replace a whole lot of jobs with it.",
+      "upvotes": 46,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "Timely_Note_1904",
+      "content": "They have used up all the good quality training data. Improvement depends on an ever increasing pool of good training data.",
+      "upvotes": 11,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "Tiki_Man_Roar",
+      "content": "I work at a well known large-ish tech company, and our top AI researcher gave an interesting presentation on the current state of LLMs.\n\nHe described them as having two main parts: the pre-trained part and the \"thinking\" part. At this point, the pre-trained part is trained quite literally on the entirety of the internet, meaning that we're probably close to an upper bound on the benefits we can get from that part.\n\nAs he put it, how far LLMs can get in their capabilities depends on how AI companies can innovate on the \"thinking\" part. Admittedly, I'm not super knowledgeable in this area, so I wasn't totally following, but I think this is where agentic AI comes in (specialized smaller models working together inside a bigger model).\n\nI think I agree with your assessment. It'll be interesting to see if these models hit a hard upper bound in their capabilities.",
+      "upvotes": 10,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "k_dubious",
+      "content": "Why do you think everyone has shifted to \"agentic\" as the new buzzword? It's obvious that a LLM is just a monkey with a typewriter, so now the AI true believers are peddling the idea that if we can just arrange those monkeys in the correct org structure, we'll get Shakespeare.",
+      "upvotes": 64,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "Slimbopboogie",
+      "content": "Idk I started some tutorials on hugging face today on agentic apps and I do think that is a pretty big game changer.\n\nIs it the AI revolution everyone wants? Probably not. But the libraries, classes, functions, etc are pretty helpful and will likely be pretty standard from here on out.",
+      "upvotes": 17,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "Material_Policy6327",
+      "content": "I work in AI research and the reality is the low hanging fruit has been picked and it's starting to taper off on how much better these models can get unless there is a change in architecture or something else done. Also these models are probably starting to get AI slop in their data so it has bad examples it's learning from",
+      "upvotes": 33,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "[deleted]",
+      "content": "What we currently call \"AI\" isn't even an artificial intelligence.",
+      "upvotes": 8,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "MakotoBIST",
+      "content": "We need bigger context, we dont need better responses. \n\nAnd bigger context looks fairly easy to obtain, it just costs more. But in terms of pure coding, gpt is good already imho.\n\nAnd yea, it won't really substitute, it will make a lot of them faster, exactly like stack overflow/google did when we switched from wizards going around with C++ books.",
+      "upvotes": 19,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "PopulationLevel",
+      "content": "The problem I've seen with bigger context windows is that the quality of responses decrease with larger context - there are some problems that models can produce correct answers to with small windows, but incorrect answers with larger windows.\n\nhttps://research.trychroma.com/context-rot",
+      "upvotes": 10,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "MakotoBIST",
+      "content": "Yea, right now very long context increase the amount of hallucinations by a lot, I've noticed it first hand even in simple conversations, let alone giving my whole codebase to an llm",
+      "upvotes": 6,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "x11obfuscation",
+      "content": "I'll still take Sonnet (and Opus for when I really need it) over GPT5. Also anyone working on serious projects knows none of these models are anywhere close to replacing senior engineers. The amount of stupid shit even Opus does is frustrating, and that's even after spending weeks on my project properly architecting context engineering. I mean yea I use it and after putting in the foundational work it does make me work 2x faster, but I'd never trust it to push anything to even dev without close supervision.",
+      "upvotes": 5,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "Professional-Dog1562",
+      "content": "In before \"It's as bad as it will ever get right now\" 😂😂😂\n\nThat says nothing of the ceiling and how close we might be to it.",
+      "upvotes": 17,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "kingofthesqueal",
+      "content": "That shit saying irritates me so much, like no shit almost everything technical is, turns out once we reach a certain threshold with all technology improvement plateaus",
+      "upvotes": 3,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "anonymous_hack3r",
+      "content": "It's not even true, because if the funding dries up and retraining LLMs becomes uneconomical, their knowledge cut-off will make it unusable for modern codebases & thus in a sense, worse than it was before",
+      "upvotes": 3,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "svix_ftw",
+      "content": "Yeah AI is a helpful tool but all tools have their limitations.\n\nI imagine in the future it will just be senior engineers working with AI",
+      "upvotes": 17,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "CoolBoi6Pack",
+      "content": "But how do we get senior engineers without junior engineers?",
+      "upvotes": 33,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "SethEllis",
+      "content": "Maybe you're underestimating how much of a difference even incremental improvements can make.",
+      "upvotes": 11,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "CyberBerserk",
+      "content": "Atomic habit reference?",
+      "upvotes": 5,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "alucab1",
+      "content": "There are AI models other than just chatGPT which are actually focused on coding. Claude Sonnet for example is scarily powerful already. I still agree that it won't completely replace coders any time soon, but it is still a powerful tool already that can drastically speed up coding tasks as long as someone who knows what they are doing is managing it",
+      "upvotes": 8,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "bill_on_sax",
+      "content": "My thought is that I see cope threads like this every day. We get it, AI isn't here to steal our jobs....yet.",
+      "upvotes": 27,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "[deleted]",
+      "content": "Those posts are about vibe. People are shitting their pants (so do I) and looking for a consolation.",
+      "upvotes": 17,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "[deleted]",
+      "content": "I honestly have no thoughts about this topic, I just have my brain flooded with fear bait about ai on a daily basis and at this point it really doesn't matter, it will have a healthy effect instead: I turn away from the internet and actually do things in the real world more, because literally everything on the internet is fake and time and time again this gets proven",
+      "upvotes": 4,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "[deleted]",
+      "content": "Yup. That's the best option. The best possible thing that we can do is enjoy our lives, love our families and experience nature. We don't have much time left before AI revolution takes its toll on us and we will go back in living standard to XVII Europe.\n\nThe sad part is that the existence of mankind becomes pointless. How do we respond to that? Good question",
+      "upvotes": 2,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "trademarktower",
+      "content": "It's about efficiency. If a programmer with AI is 3x as efficient as before, he can replace a lot of entry level programmers who are no better than the AI. If more programmers are needed, they can hire some PHDs from India at 20% the cost of a new CS grad. And that's why the entry level job market for programmers is terrible.",
+      "upvotes": 14,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "CornJackJohnson",
+      "content": "At best it makes me 1.25x more efficient. 3x is bs haha. You spend a good amount of time correcting the nonsense it spits out/generates.",
+      "upvotes": 10,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "visarga",
+      "content": "If a programmer with AI is 3x as efficient as before, he can replace a lot of entry level programmers\n\nYou think a senior programmer wants to replace entry level programmers? Is that want they see themselves doing, entry level stuff with AI? If you tried that they would say fuck u and move on. They paid their price to graduate from entry level a long time ago.",
+      "upvotes": 2,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "drkspace2",
+      "content": "Did you not see the paper that just came our that showed the exact opposite? LLMs make you less efficient.",
+      "upvotes": 10,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "YearPsychological589",
+      "content": "gpt-5 is not an improvement. it has become measurably worse. I asked it to code simple visualizations that 4o could do easily and 5 failed miserably, even with thinking. i also hit rate limits after 5 minutes without getting a single result i wanted",
+      "upvotes": 8,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "Marksta",
+      "content": "More like just showing openAI isn't competitive anymore. Deepseek R2 has a strong possibility of wiping out whatever is left of Jr jobs.",
+      "upvotes": 3,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    },
+    {
+      "author": "hi_tech75",
+      "content": "Totally agree the hype around AI replacing coders feels overblown, especially with the latest updates. GPT-5 is cool, but the leap isn't massive.\n\nAI is great for speeding up simple stuff, but it still can't replace deep thinking, architecture decisions, or real-world problem solving.\n\nFeels more like a smart assistant than a replacement and that's probably where it'll stay (at least for a while).",
+      "upvotes": 3,
+      "created_at": "2025-11-21T05:53:18.981Z"
+    }
+  ],
+  "is_relevant": true,
+  "relevance_note": "Playwright浏览器采集 - AI对程序员影响相关讨论"
+}

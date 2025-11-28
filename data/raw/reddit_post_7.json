@@ -1,0 +1,509 @@
+{
+  "platform": "reddit",
+  "type": "submission",
+  "url": "https://www.reddit.com/r/cscareerquestions/comments/1eoyz5l/be_totally_honest_people_who_are_at_least_mid/",
+  "subreddit": "cscareerquestions",
+  "scraped_at": "2025-11-21T03:51:34.138Z",
+  "title": "Be totally honest, people who are at least Mid level, do you guys use LLM e.g. chatGPT? and what do you use it for? And what do you guys think of Dev who don't use LLM?",
+  "content": "I am a new Grad and just joined a company for 2 months so far so I'm a Junior and I have to be honest all of my tickets I just use first ChatGPT or other LLM. And googling if those LLM doesn't fix my problems.\n\nI just tell them for example there is a bug on this snippet code**, it return X result but I want this desired Y result s. Fix it for me,** and I just test the code and see if it fixed the bugs, if it does fix the bug then,\n\nI ask chatGPT to refactor it or in worst case I just do it myself, since I'm still a Junior and I hate the feeling when someone need to babysit me even they are willing to do it but I can do it myself by using LLM or googling.\n\n--\n\nOther things is I can use LLM to make query for me in SQL and MongoDb, tbh sometimes I forget the long syntax of both languages when I rarely use it. Then I will take a screenshot of the answer from LLM and save it in my notes app in OneNote or Notion. By doing this way I can quickly find it after.\n\nProgrammers are still humans, so we forget things that we don't do it all the time right?\n\n--\n\nOther things is what do you guys think of Dev who don't use LLM? or rarely use it.\n\nThey prefer reading the doc/googling first and if they cant, then they wil use LLM as their last option.\n\nTbh I find it very nice, but the problem is the right \"keyword\" to find/google that will fix the problem which is time consuming!",
+  "author": "ballbeamboy2",
+  "created_at": "2024-08-10T17:48:08.355Z",
+  "upvotes": 196,
+  "comment_count": 94,
+  "comments": [
+    {
+      "author": "confuseddork24",
+      "content": "Blindly copying from LLMs is the new blindly copying from stack overflow. Blindly copying will hurt you in the long run. When you research a problem you should be striving to understand the issue and possible solutions you find. I don't think you're alone though, and my bet is that in the coming years systems are going to end up so bug ridden that there's going to be a much stronger demand for senior engineers.",
+      "upvotes": 657,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "Suspicious-Sink-4940",
+      "content": "Junior posts in 2028:\n\n+Proven record of capability to UNDERSTAND PROBLEMS\n\n+17 YEARS OF EXPEROENCE",
+      "upvotes": 159,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "MrBanditFleshpound",
+      "content": "*21 years of experience",
+      "upvotes": 6,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "gen3archive",
+      "content": "I use LLMs for some stuff but if i dont understand what its doing i ask it to explain the code. I dont implement the code until i understand whats going on and usually tweak it",
+      "upvotes": 81,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "confuseddork24",
+      "content": "IMO, this is the proper way to use LLMs. I will also verify from additional sources if it's something I did not know before. I find this helps reinforce the information as well as improves my research skills.",
+      "upvotes": 57,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "gen3archive",
+      "content": "Ive been specifically using it to build a Django program. I understand the core of how django works, but the documentation is a bit lacking in some aspects, and chat gpt helps me on things i cant really find any specific answers for.",
+      "upvotes": 9,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "confuseddork24",
+      "content": "Yea these things will very confidently give you inaccurate or outright wrong information. They also seem way too susceptible to gaslighting, even if unintentional by the user.",
+      "upvotes": 10,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "Dymatizeee",
+      "content": "Do you think it's bad to ask GPT immediately? I.e I'm an intern right now and I'm using some tech / docs I'm not familiar with.",
+      "upvotes": 6,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "confuseddork24",
+      "content": "I think it's a bad idea as it could create bad habits. Even if you don't blindly copy every time at first, you might be in a rush and do it at some point.",
+      "upvotes": 16,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "gen3archive",
+      "content": "I think it depends on what youre doing. I have the Django doc up at all times and try to do some research beforehand, but certain things are either not satisfying what im looking for or theres just not good documentation out.",
+      "upvotes": 4,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "superluminary",
+      "content": "It's probably a bad idea, yes. We grow through struggle.",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "SnooSongs8773",
+      "content": "Yeah I'm scared to use things I don't fully understand. Not that I have to be able to write it off the top of my head, but I should at least be able to explain every detail to someone.",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "stoputa",
+      "content": "I don't really use SO that much either. After a bit, I've either memorized the \"core\" knowledge or I'm at least more effective with documentation and for very specific stuff, SO is not of much use anyway",
+      "upvotes": 6,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "Seref15",
+      "content": "Asking an LLM to explain a thing a lot more useful than asking an LLM to just do the thing.",
+      "upvotes": 5,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "Titoswap",
+      "content": "The thing with llms is you can ask it to explain code to you. So if your not atleast doing that. You will be fucked in the long run",
+      "upvotes": 5,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "unconceivables",
+      "content": "Even if you do, it will lie to you. And double down on the lies. The only way to really know if it's telling the truth is to actually know the answer in the first place. Please don't trust LLMs if you want to actually have a career in this field.",
+      "upvotes": 37,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "glhaynes",
+      "content": "And even if it doesn't lie to you, I'd imagine you're in danger of drastically reducing how much you're learning.",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "Seref15",
+      "content": "You have to treat it like a person. When a person gives you an answer you also don't know for a fact that they're correct. You have to verify the answer--treat LLM code the same way.",
+      "upvotes": 4,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "CLR833",
+      "content": "So you're telling me that as a junior I should continue using LLMs to create bugs and increase my job prospects for the future? Sounds like a deal",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "Loga_anx14",
+      "content": "I'd say it's a tool, so I frequently do use it to do my skeleton tasks. But the actual logic that goes behind is still something that we ourselves have to write on. And about people who don't use LLMs is also completely fine, as long as they're getting their tasks done",
+      "upvotes": 152,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "diablo1128",
+      "content": "I use ChatGTP like how I would use Google to help me with my work. I will use it to learn about things and give me a starting point to do my job. I ask it things like \"Give me an example of X using Y library\". Then I get a working example that I can modify and play with to do what I need to do.\n\nI never past code in it and ask it to find the bug type of things. Coming up with solutions, debugging, and problem solving is the fun part for me.",
+      "upvotes": 91,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "So_",
+      "content": "Exactly, I think it replaces Google. As of yet it has no chance of replacing a dev, and you still need to verify the code it provides sometimes, but IMO it smashes Googling code ideas",
+      "upvotes": 5,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "Noovic",
+      "content": "Yea exactly. It's just an easier way to search for a answer instead of having to sort though stack overflow",
+      "upvotes": 1,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "Pozeidan",
+      "content": "Stack overflow will give you multiple options so you can see the trade-offs. It's indeed easier to ask an LLM and may seem more efficient but it's not true in the long run because you're missing an opportunity to develop how to think about problems and solutions.",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "MarcableFluke",
+      "content": "No. The problems I'm solving involve a lot of internal knowledge that LLMs don't have access to and I'm certainly not going to give a third party internal information.",
+      "upvotes": 203,
+      "created_at": "2025-11-21T03:51:34.139Z"
+    },
+    {
+      "author": "Points_To_You",
+      "content": "Do many large companies not have their own internal facing general purpose chatGPT-like application at this point?",
+      "upvotes": 25,
+      "created_at": "2025-11-21T03:51:34.145Z"
+    },
+    {
+      "author": "Explodingcamel",
+      "content": "My FAANG company does but it's trash. I question if one company's codebase can ever be enough training data for an LLM to be useful.",
+      "upvotes": 37,
+      "created_at": "2025-11-21T03:51:34.145Z"
+    },
+    {
+      "author": "kazi1",
+      "content": "Amazon Q? I tried using that a few times and it's awful. It refuses to answer any question tangentially related to security.",
+      "upvotes": 13,
+      "created_at": "2025-11-21T03:51:34.145Z"
+    },
+    {
+      "author": "rajhm",
+      "content": "I use Codeium plugin for coding support, some intelligent autocomplete, etc. ChatGPT or other LLM to answer some coding syntax kinds of questions that you would otherwise Google or look up on Stack Overflow, or to generate some boilerplate.",
+      "upvotes": 21,
+      "created_at": "2025-11-21T03:51:34.145Z"
+    },
+    {
+      "author": "rabidstoat",
+      "content": "I use it to write awk/sed oneliners or simple bash scripts. It's wrong fairly often but usually a tad quicker for me to correct it than to use my brain from scratch.",
+      "upvotes": 9,
+      "created_at": "2025-11-21T03:51:34.145Z"
+    },
+    {
+      "author": "meSmash101",
+      "content": "Basically I use it for stack overflow type of questions and explanation of concepts. Eli5 type of explanations. It actually does a pretty good job and it gets me up to speed usually really fast.",
+      "upvotes": 21,
+      "created_at": "2025-11-21T03:51:34.145Z"
+    },
+    {
+      "author": "rnicoll",
+      "content": "Staff Engineer at big tech - yes, but I review everything it generates.",
+      "upvotes": 18,
+      "created_at": "2025-11-21T03:51:34.145Z"
+    },
+    {
+      "author": "Rain-And-Coffee",
+      "content": "Never,\n\n90% of my day is thinking about how to solve the problems (constraints, tradeoffs, timelines, etc).\n\nWriting the actual code is rather simple and I enjoy it.",
+      "upvotes": 82,
+      "created_at": "2025-11-21T03:51:34.145Z"
+    },
+    {
+      "author": "MOISTEN_THE_TAINT",
+      "content": "Same! The code writing is the fun part. By the time I've gotten there, I know the structure and skeleton of what I'm going to write.",
+      "upvotes": 21,
+      "created_at": "2025-11-21T03:51:34.145Z"
+    },
+    {
+      "author": "vert1s",
+      "content": "Yes every day, in multiple configurations. It's not without weaknesses but I struggle to understand people that can't find benefits at all.",
+      "upvotes": 47,
+      "created_at": "2025-11-21T03:51:34.147Z"
+    },
+    {
+      "author": "imLissy",
+      "content": "We have our own internal LLM and copilot as well. I use them all the time. Mostly beats in switching between languages a lot and I just code and it takes care of the syntax for me.",
+      "upvotes": 9,
+      "created_at": "2025-11-21T03:51:34.147Z"
+    },
+    {
+      "author": "hypolimnas",
+      "content": "I guess the problem with telling an LLM to generate code with output Y instead of output X is that the new code may not fix the bug at all. There's can be lots of ways to generate output Y, and some of them are also bugs.",
+      "upvotes": 8,
+      "created_at": "2025-11-21T03:51:34.147Z"
+    },
+    {
+      "author": "CappuccinoCodes",
+      "content": "I use it all the time and it makes me faster. But most of my work involves domain knowledge that LLMs can't help with. I think using LLMs is totally fine as long as you never push code you don't understand.",
+      "upvotes": 7,
+      "created_at": "2025-11-21T03:51:34.147Z"
+    },
+    {
+      "author": "NewSchoolBoxer",
+      "content": "No. Repeatedly pasting company code on unauthorized software, people have been fired for less. We were specifically told GitHub Copilot was not allowed.",
+      "upvotes": 25,
+      "created_at": "2025-11-21T03:51:34.147Z"
+    },
+    {
+      "author": "fizzSortBubbleBuzz",
+      "content": "I'm sure you are allowed to use Google? You can use LLM the same way, without actually pasting any proprietary code into it.",
+      "upvotes": 13,
+      "created_at": "2025-11-21T03:51:34.147Z"
+    },
+    {
+      "author": "sushislapper2",
+      "content": "I use it for writing some scripts / sql snippets. But that's about it. Maybe creating shells of UIs. I don't use it for logic or adding features / designing new stuff.",
+      "upvotes": 5,
+      "created_at": "2025-11-21T03:51:34.147Z"
+    },
+    {
+      "author": "farazon",
+      "content": "I'm honestly surprised this isn't the top answer. You're pasting your company's IP into a database owned by a different company...",
+      "upvotes": 4,
+      "created_at": "2025-11-21T03:51:34.147Z"
+    },
+    {
+      "author": "angrathias",
+      "content": "Covers 90% of the code and only the happy path, jobs done boss!",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.147Z"
+    },
+    {
+      "author": "SpareIntroduction721",
+      "content": "Yes. Always. It helps me start code, read code, explain code, show me a new way I didn't know what something. If you don't use the tools you are basically leaving money on the table so to say.",
+      "upvotes": 5,
+      "created_at": "2025-11-21T03:51:34.147Z"
+    },
+    {
+      "author": "PandaWonder01",
+      "content": "Honestly I've never had good results from an llm. Either the problem I'm solving is simple enough that I don't need an llm to help with it, or it's complex enough that the llm just outputs incorrect garbage.",
+      "upvotes": 17,
+      "created_at": "2025-11-21T03:51:34.147Z"
+    },
+    {
+      "author": "imagebiot",
+      "content": "I don't think about if a dev does or doesn't use ai tooling\n\nCopilot is pretty great though and I use it on a daily basis. I probably save 30% keystrokes using it.",
+      "upvotes": 4,
+      "created_at": "2025-11-21T03:51:34.147Z"
+    },
+    {
+      "author": "MrMeatballGuy",
+      "content": "i don't use it unless it's company policy to do so. currently we use GitHub Copilot at work, so i do have that enabled, but it very rarely does anything intellisense or a good snippet extension couldn't have done anyway.",
+      "upvotes": 4,
+      "created_at": "2025-11-21T03:51:34.147Z"
+    },
+    {
+      "author": "JohnHwagi",
+      "content": "I've tried all the tools a few times, but haven't found anything to be particularly useful. GPT's writing is terrible, co-pilot and similar make awful suggestions, RAG is worse than just searching and reading through documents.",
+      "upvotes": 10,
+      "created_at": "2025-11-21T03:51:34.147Z"
+    },
+    {
+      "author": "Eight111",
+      "content": "I do use chatGPT, a lot.\n\nBut mostly for things i already did and forgot the boilerplate and stuff like that. barely for logic.",
+      "upvotes": 7,
+      "created_at": "2025-11-21T03:51:34.147Z"
+    },
+    {
+      "author": "theofficialLlama",
+      "content": "It really increased my velocity at first but I've come to realize that im kind of just turning my brain off and relying on it to spit out a semi correct answer.",
+      "upvotes": 3,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "0ut0fBoundsException",
+      "content": "Different companies have different feelings on LLMs. Companies are downright paranoid about their data and for good reason.",
+      "upvotes": 3,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "thealienmessiah",
+      "content": "Yeah for sure, feels great to be able to have a discussion about topics I'm actively learning.",
+      "upvotes": 3,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "CallinCthulhu",
+      "content": "I don't use LLMs directly much, however we have an excellent code completion engine based on Llama in our IDE that I absolutely love.",
+      "upvotes": 3,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "paerius",
+      "content": "I don't use it, but I saw an intern ask an LLM a basic coding question and I guess it's a sign of the times.",
+      "upvotes": 3,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "bigeyez",
+      "content": "I use chatgpt fairly often for things like Regexp syntax. It's great at simple things like that and saves me from googling or trial and error.",
+      "upvotes": 3,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "esotericEagle15",
+      "content": "I find copilot is too eager to be helpful and gets in the way. The copilot chat is the best part, but I use it when I can't find anything quickly when searching through actual documentation.",
+      "upvotes": 3,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "gizahnl",
+      "content": "I don't use LLM, quality of code is too low. And it would result in my brain atrophying.",
+      "upvotes": 3,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "balooooooon",
+      "content": "Im a senior dev and I use AI everyday, so does almost my whole department. If you are not using AI to assist you then you are like the mathematician using an abacus when calculators were invented.",
+      "upvotes": 10,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "Caleb_Whitlock",
+      "content": "I have no uses for it in its current form",
+      "upvotes": 8,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "PapaRL",
+      "content": "I work at faang, I dont know a single person who uses LLM for anything other than making a doc more concise or writing test cases.",
+      "upvotes": 6,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "honey495",
+      "content": "Started using it to look up syntax on how to do some things or look up straightforward info.",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "robby_arctor",
+      "content": "I use it to help me write CSS, tests, and occasionally SQL queries. I never paste any of it uncritically.",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "does_make_sense",
+      "content": "I only use it to do tasks that are just manually intensive/boring. Stuff I would make my own script for if I wasn't using LLMs because its a time sink to do it myself.",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "Aber2346",
+      "content": "I use it for sometimes searching compiler errors but I can't give it any source code due to corporate policies.",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "ContextSlow2820",
+      "content": "ya i use it for basic tasks. like write a python script to take these keys from a yaml sequence and put them into a csv file.",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "shadow2mario",
+      "content": "I blindly copy the code and fix whats broken. Then I refactor if needed. I don't think any differently of devs who do or don't use an LLM. Results are what matter.",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "the_biggest_papi",
+      "content": "i never have and i never will. i can write code better than chat gpt and i know how to research solutions when i don't know how to do something.",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "mooseman3",
+      "content": "The one time I was desperate enough to use one, the problem was obscure enough that ChatGPT just made something up that sounded possible.",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "BubbleTee",
+      "content": "You're going to hit a wall somewhere around mid level. There's a huge difference between using LLMs to speed up tedious work, and using them to avoid learning.",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "EnigmaticHam",
+      "content": "It's nice for when I want to ask it to write a function that converts a plain text description of an object into json or vice versa. Also nice for generating boilerplate for an api.",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "NightMaestro",
+      "content": "God no. I've seen people fired because they used it, said the code worked, we went back to it and it was used for one purpose and couldn't fit with anything. Waste of time",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "Remarkable_Leek1538",
+      "content": "1.5 YOE here, but I mainly use it to explain code I don't understand. It generally never understands business processes well enough to accurately fix an error unless it's an obvious syntax error.",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "markvii_dev",
+      "content": "Never touched it but the people recommending it internally are enough to convince me that it's borderline useless for anything beyond something you would find in a tutorial.",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "hypolimnas",
+      "content": "Another thing that doesn't make sense about this is that trying to understand someone else's code tends to be a lot harder then writing your own code.",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "daishi55",
+      "content": "Yes all the time. I think they're gonna get left behind",
+      "upvotes": 5,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "ooter37",
+      "content": "No, it's a waste of time",
+      "upvotes": 3,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "AndyKJMehta",
+      "content": "It lies all the freakin time about how to solve specific issues. It doesn't know jack shit because it can't execute or test anything it outputs…yet!",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "Titoswap",
+      "content": "Everyone here hates AI so don't expect a non biased response.",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "FlowOfAir",
+      "content": "Not for coding at all. I use it to make my documents easier to read and recommend better ways to spell certain phrases, but that's about it.",
+      "upvotes": 2,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "ButchDeanCA",
+      "content": "I never use LLMs for research.",
+      "upvotes": 1,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "ObstinateHarlequin",
+      "content": "Never. Partially because my company has explicit rules against it, partially because every time I've played with LLMs on my own time I've been profoundly disappointed by the results.",
+      "upvotes": 1,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    },
+    {
+      "author": "RuralWAH",
+      "content": "Check with your legal department. In the U.S. under current copyright laws, use of a non-human to generate code might make parts of your company's codebase public domain.",
+      "upvotes": 1,
+      "created_at": "2025-11-21T03:51:34.148Z"
+    }
+  ],
+  "is_relevant": true,
+  "relevance_note": "Playwright浏览器采集 - AI对程序员影响相关讨论"
+}

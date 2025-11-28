@@ -1,0 +1,191 @@
+{
+  "comment": "AI智能搜索发现的URL - 2025年11月",
+  "discovery_info": {
+    "discovered_at": "2025-11-20",
+    "search_method": "AI助手 + WebSearch",
+    "total_discovered": 16,
+    "status": "需要人工复核评论数量"
+  },
+  "instructions": [
+    "✅ 这些URL都是浮浮酱通过AI搜索找到的高相关性讨论",
+    "⚠️ 请主人访问每个URL，确认评论数是否>=100条",
+    "✏️ 填写准确的发布时间（在标题旁边可以看到）",
+    "✔️ 确认后将 manual_checked 改为 true",
+    "🎯 至少需要18个评论>=100的帖子"
+  ],
+  "search_keywords_used": [
+    "ChatGPT 程序员 失业",
+    "AI 大模型 IT 岗位",
+    "大模型 程序员 技能 转型",
+    "GPT-4 开发者 影响"
+  ],
+  "zhihu_posts": [
+    {
+      "url": "https://www.zhihu.com/question/570403406",
+      "title": "OpenAI 的超级对话模型 ChatGPT 会导致程序员大规模失业吗？",
+      "date": "2023-02",
+      "relevance_note": "知乎热门问题，讨论ChatGPT对程序员就业的直接影响，浏览量近百万",
+      "estimated_comments": "预估>100（需确认）",
+      "relevance_score": 0.95,
+      "manual_checked": false
+    },
+    {
+      "url": "https://www.zhihu.com/question/570596331",
+      "title": "ChatGPT的出现会不会导致底层程序员失业？",
+      "date": "2023-02",
+      "relevance_note": "聚焦初级/底层程序员的就业担忧，讨论AI对不同技能水平程序员的影响差异",
+      "estimated_comments": "预估>100（需确认）",
+      "relevance_score": 0.92,
+      "manual_checked": false
+    },
+    {
+      "url": "https://www.zhihu.com/question/594158428",
+      "title": "GPT的出现，真的会有大批人失业吗？",
+      "date": "2023-06",
+      "relevance_note": "更广泛的讨论GPT对各行业的就业影响，包括IT行业",
+      "estimated_comments": "预估>100（需确认）",
+      "relevance_score": 0.85,
+      "manual_checked": false
+    },
+    {
+      "url": "https://www.zhihu.com/question/10260155433",
+      "title": "程序员如何转行到AI大模型领域？",
+      "date": "2024",
+      "relevance_note": "讨论传统程序员向AI大模型领域转型的技能要求和路径",
+      "estimated_comments": "预估>50（需确认）",
+      "relevance_score": 0.90,
+      "manual_checked": false
+    },
+    {
+      "url": "https://zhuanlan.zhihu.com/p/1896941040927212239",
+      "title": "卷起来了？AI大模型求职真相：我们扒了数百份招聘JD，发现了这些秘密！",
+      "date": "2024",
+      "relevance_note": "基于实际招聘数据分析AI大模型岗位需求和技能要求",
+      "estimated_comments": "预估>50（需确认）",
+      "relevance_score": 0.90,
+      "manual_checked": false
+    },
+    {
+      "url": "https://www.zhihu.com/question/10745665429",
+      "title": "普通Java开发如何转型大模型方向？",
+      "date": "2024",
+      "relevance_note": "针对Java开发者的转型讨论，涉及技能学习和职业路径",
+      "estimated_comments": "预估>80（需确认）",
+      "relevance_score": 0.89,
+      "manual_checked": false
+    },
+    {
+      "url": "https://www.zhihu.com/question/651409226",
+      "title": "2024 年人工智能方向的就业前景怎么样？",
+      "date": "2024",
+      "relevance_note": "讨论AI方向的就业前景，包含对传统IT岗位的影响分析",
+      "estimated_comments": "预估>100（需确认）",
+      "relevance_score": 0.88,
+      "manual_checked": false
+    }
+  ],
+  "v2ex_posts": [
+    {
+      "url": "https://www.v2ex.com/t/1023860",
+      "title": "人工智能（AI）井喷式发展下，未来程序员这个职业会不存在吗？",
+      "date": "2024",
+      "relevance_note": "V2EX热门讨论，探讨AI对程序员职业的长期影响",
+      "estimated_comments": "预估>100（需确认）",
+      "relevance_score": 0.93,
+      "manual_checked": false
+    },
+    {
+      "url": "https://www.v2ex.com/t/1114631",
+      "title": "程序员 10 年，想转做 AI 应用方向",
+      "date": "2025-02",
+      "relevance_note": "真实的转型案例讨论，包含技术栈学习和职业规划",
+      "estimated_comments": "预估50-80（需确认）",
+      "relevance_score": 0.87,
+      "manual_checked": false
+    },
+    {
+      "url": "https://v2ex.com/t/1078535",
+      "title": "闲聊， AI 对程序员行业的影响，今天看了一个帖子说 AI 要干掉程序员行业",
+      "date": "2024",
+      "relevance_note": "社区讨论AI对程序员的影响，多人参与分享观点",
+      "estimated_comments": "预估>100（需确认）",
+      "relevance_score": 0.90,
+      "manual_checked": false
+    },
+    {
+      "url": "https://www.v2ex.com/t/1131621",
+      "title": "35 岁+程序员， Gap 10 个月后成功再就业，一点经历分享",
+      "date": "2025",
+      "relevance_note": "包含AI时代程序员再就业的实际经验，提到学习LLM应用开发",
+      "estimated_comments": "预估>150（需确认）",
+      "relevance_score": 0.85,
+      "manual_checked": false
+    },
+    {
+      "url": "https://www.v2ex.com/t/1132969",
+      "title": "AI 以后发展了，什么职业，或者大学选什么专业有钱图",
+      "date": "2025",
+      "relevance_note": "讨论AI发展后的职业选择，包括IT相关专业",
+      "estimated_comments": "预估>80（需确认）",
+      "relevance_score": 0.82,
+      "manual_checked": false
+    },
+    {
+      "url": "https://fast.v2ex.com/t/943691",
+      "title": "有了 ChatGPT 等 AI 工具后，技术面试应该要有什么样的改变？",
+      "date": "2024",
+      "relevance_note": "讨论AI工具对IT行业招聘和技能要求的影响",
+      "estimated_comments": "预估>100（需确认）",
+      "relevance_score": 0.88,
+      "manual_checked": false
+    },
+    {
+      "url": "https://global.v2ex.com/t/743122",
+      "title": "听说大厂都在高薪招人工智能岗？",
+      "date": "2023",
+      "relevance_note": "讨论AI相关岗位的招聘和薪资情况",
+      "estimated_comments": "预估>60（需确认）",
+      "relevance_score": 0.83,
+      "manual_checked": false
+    },
+    {
+      "url": "https://www.v2ex.com/t/1163744",
+      "title": "想要学一个新的开发语言，不知道方向，求推荐。",
+      "date": "2025",
+      "relevance_note": "AI时代下的技能学习方向讨论",
+      "estimated_comments": "预估>40（需确认）",
+      "relevance_score": 0.75,
+      "manual_checked": false
+    },
+    {
+      "url": "https://v2ex.com/t/940195",
+      "title": "你是怎样开始程序员职业生涯的？",
+      "date": "2024",
+      "relevance_note": "包含对AI时代程序员职业发展的讨论",
+      "estimated_comments": "预估>50（需确认）",
+      "relevance_score": 0.72,
+      "manual_checked": false
+    }
+  ],
+  "additional_search_suggestions": [
+    "可以继续搜索：",
+    "- site:zhihu.com AI 程序员 焦虑 2024 2025",
+    "- site:v2ex.com 大模型 失业 讨论",
+    "- site:zhihu.com Claude Copilot 开发效率",
+    "- site:v2ex.com AI编程 工具 影响"
+  ],
+  "quality_notes": {
+    "high_relevance_count": 16,
+    "estimated_valid_count": "10-13个（评论>=100）",
+    "platforms_coverage": {
+      "zhihu": 7,
+      "v2ex": 9
+    },
+    "time_coverage": {
+      "2023": 2,
+      "2024": 7,
+      "2025": 4
+    },
+    "recommendation": "建议再补充5-8个评论数>=100的帖子，以确保>=18个有效帖子。重点关注知乎问题类型的讨论。"
+  }
+}

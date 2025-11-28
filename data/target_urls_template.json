@@ -1,0 +1,18 @@
+{
+  "comment": "自动发现的URL，需要人工复核",
+  "instructions": [
+    "1. 访问每个URL，确认是否相关",
+    "2. 检查评论数是否>=100",
+    "3. 填写title、date和relevance_note",
+    "4. 确认后将manual_checked改为true",
+    "5. 确保总数>=18个已确认的帖子"
+  ],
+  "zhihu_posts": [],
+  "v2ex_posts": [],
+  "stats": {
+    "zhihu_count": 0,
+    "v2ex_count": 0,
+    "total": 0,
+    "checked": 0
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "search_date": "2025-11-21T08:50:58.030985",
+  "total_count": 18,
+  "zhihu_count": 8,
+  "v2ex_count": 10,
+  "urls": {
+    "zhihu": [
+      {
+        "url": "https://www.zhihu.com/question/610934570",
+        "question_id": "610934570",
+        "title": "ChatGPT等AI大模型会让程序员失业吗？你怎么看？",
+        "estimated_comments": 1263,
+        "source": "perplexity_api",
+        "search_date": "2025-11-21T08:50:58.030094"
+      },
+      {
+        "url": "https://www.zhihu.com/question/613590360",
+        "question_id": "613590360",
+        "title": "AI大模型会取代哪些IT岗位？程序员未来该如何应对？",
+        "estimated_comments": 1127,
+        "source": "perplexity_api",
+        "search_date": "2025-11-21T08:50:58.030141"
+      },
+      {
+        "url": "https://www.zhihu.com/question/612964800",
+        "question_id": "612964800",
+        "title": "ChatGPT等AI工具会影响程序员的薪资和职业发展吗？",
+        "estimated_comments": 1042,
+        "source": "perplexity_api",
+        "search_date": "2025-11-21T08:50:58.030163"
+      },
+      {
+        "url": "https://www.zhihu.com/question/614214293",
+        "question_id": "614214293",
+        "title": "AI大模型时代",
+        "estimated_comments": 1018,
+        "source": "perplexity_api",
+        "search_date": "2025-11-21T08:50:58.030177"
+      },
+      {
+        "url": "https://www.zhihu.com/question/611812843",
+        "question_id": "611812843",
+        "title": "AI大模型会让哪些程序员被淘汰？哪些技能最重要？",
+        "estimated_comments": 1009,
+        "source": "perplexity_api",
+        "search_date": "2025-11-21T08:50:58.030192"
+      },
+      {
+        "url": "https://www.zhihu.com/question/613812662",
+        "question_id": "613812662",
+        "title": "AI大模型会让IT行业发生哪些变化？",
+        "estimated_comments": 1007,
+        "source": "perplexity_api",
+        "search_date": "2025-11-21T08:50:58.030207"
+      },
+      {
+        "url": "https://www.zhihu.com/question/613969237",
+        "question_id": "613969237",
+        "title": "AI大模型会让IT行业哪些岗位消失？",
+        "estimated_comments": 1003,
+        "source": "perplexity_api",
+        "search_date": "2025-11-21T08:50:58.030221"
+      },
+      {
+        "url": "https://www.zhihu.com/question/614013986",
+        "question_id": "614013986",
+        "title": "AI大模型会让IT行业哪些岗位更吃香？",
+        "estimated_comments": 1002,
+        "source": "perplexity_api",
+        "search_date": "2025-11-21T08:50:58.030236"
+      }
+    ],
+    "v2ex": [
+      {
+        "url": "https://v2ex.com/t/963753",
+        "topic_id": "963753",
+        "title": null,
+        "estimated_comments": null,
+        "source": "perplexity_api",
+        "search_date": "2025-11-21T08:50:58.030416"
+      },
+      {
+        "url": "https://v2ex.com/t/959208",
+        "topic_id": "959208",
+        "title": null,
+        "estimated_comments": null,
+        "source": "perplexity_api",
+        "search_date": "2025-11-21T08:50:58.030433"
+      },
+      {
+        "url": "https://v2ex.com/t/963752",
+        "topic_id": "963752",
+        "title": null,
+        "estimated_comments": null,
+        "source": "perplexity_api",
+        "search_date": "2025-11-21T08:50:58.030448"
+      },
+      {
+        "url": "https://v2ex.com/t/959209",
+        "topic_id": "959209",
+        "title": null,
+        "estimated_comments": null,
+        "source": "perplexity_api",
+        "search_date": "2025-11-21T08:50:58.030460"
+      },
+      {
+        "url": "https://v2ex.com/t/963754",
+        "topic_id": "963754",
+        "title": null,
+        "estimated_comments": null,
+        "source": "perplexity_api",
+        "search_date": "2025-11-21T08:50:58.030473"
+      },
+      {
+        "url": "https://v2ex.com/t/963755",
+        "topic_id": "963755",
+        "title": null,
+        "estimated_comments": null,
+        "source": "perplexity_api",
+        "search_date": "2025-11-21T08:50:58.030490"
+      },
+      {
+        "url": "https://v2ex.com/t/959210",
+        "topic_id": "959210",
+        "title": null,
+        "estimated_comments": null,
+        "source": "perplexity_api",
+        "search_date": "2025-11-21T08:50:58.030512"
+      },
+      {
+        "url": "https://v2ex.com/t/963756",
+        "topic_id": "963756",
+        "title": null,
+        "estimated_comments": null,
+        "source": "perplexity_api",
+        "search_date": "2025-11-21T08:50:58.030526"
+      },
+      {
+        "url": "https://v2ex.com/t/959211",
+        "topic_id": "959211",
+        "title": null,
+        "estimated_comments": null,
+        "source": "perplexity_api",
+        "search_date": "2025-11-21T08:50:58.030538"
+      },
+      {
+        "url": "https://v2ex.com/t/963757",
+        "topic_id": "963757",
+        "title": null,
+        "estimated_comments": null,
+        "source": "perplexity_api",
+        "search_date": "2025-11-21T08:50:58.030551"
+      }
+    ]
+  }
+}
